@@ -12,4 +12,4 @@
 -Create deployment package, upload and you are all set.<br/>
 You would get a slack message when threshold is crossed.<br/>
 
-![Flow](Flow.png)
+![Flow](flow.png)
